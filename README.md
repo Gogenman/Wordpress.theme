@@ -7,4 +7,4 @@ All project is just layout with simple scripts
 ![vet(2)](https://user-images.githubusercontent.com/61227720/230723438-6f655890-6e93-40ce-88b0-74bae81f7513.gif)
 ![vet(3)](https://user-images.githubusercontent.com/61227720/230723546-819ae947-bd47-48d3-9995-a7aefae1c67e.gif)
 
-![vet-desktop (1)](https://user-images.githubusercontent.com/61227720/230724389-62e34ee4-d5ae-4672-a06a-6555f56447f3.gif)
+![vet-desktop](https://user-images.githubusercontent.com/61227720/230724479-97131023-d21b-473a-8295-26ffef411f32.gif)
